@@ -1,0 +1,6 @@
+designation
+
+clk divider - Lily
+controller - Nolan
+Counter - Lily
+display - Nolan
